@@ -1,0 +1,8 @@
+com\learn\microservice\model\UserRating.class
+com\learn\microservice\services\MovieInfo.class
+com\learn\microservice\MovieCatalogServiceApplication.class
+com\learn\microservice\model\CatalogItem.class
+com\learn\microservice\model\Movie.class
+com\learn\microservice\services\UserRatingInfo.class
+com\learn\microservice\controller\MovieCatalogController.class
+com\learn\microservice\model\Rating.class
